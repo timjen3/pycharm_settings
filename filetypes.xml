@@ -6,6 +6,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="_bin" type="PLAIN_TEXT" />
+      <mapping ext="pyinstaller" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
