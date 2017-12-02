@@ -10,6 +10,7 @@
       <mapping ext="_bin" type="PLAIN_TEXT" />
       <mapping ext="pyinstaller" type="PLAIN_TEXT" />
       <mapping ext="nsis" type="PLAIN_TEXT" />
+      <mapping ext="watch" type="PLAIN_TEXT" />
       <mapping ext="spec" type="Python" />
     </extensionMap>
   </component>
